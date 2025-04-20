@@ -114,8 +114,11 @@ todo-chatbot/
 ```
 
 ## Screenshots
+### Giao diện Quản lý công việc (Giao diện Todo-Chatbot)
+![image](https://github.com/user-attachments/assets/c98d87fa-7f2f-4479-a174-24a073b40ee0)
 
-*(Có thể thêm screenshots của ứng dụng vào đây)*
+### Giao diện Chỉnh sửa công việc
+![image](https://github.com/user-attachments/assets/0e0314c8-c076-4e07-bb26-b13465176937)
 
 ## License
 
